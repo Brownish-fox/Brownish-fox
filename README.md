@@ -4,7 +4,7 @@ Um gamer aleatório 🎮
 
 Amo web e game development 📜
 
-Cê não odeia furrys, né? 🐾
+"Você só odeia quem você não gosta" - Eu mesmo 🐾
 
 # 📜⠂Stats
 
