@@ -1,11 +1,3 @@
-# 📄⠂Description
-
-Um gamer aleatório 🎮
-
-Amo web e game development 📜
-
-"Você só odeia quem você não gosta" - Eu mesmo 🐾
-
 # 📜⠂Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Brownish-fox&theme=radical&locale=pt-br&include_all_commits=True&bg_color=75,43119e,9843cc)
